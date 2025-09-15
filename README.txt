@@ -6,4 +6,4 @@ Indicaciones
     requirements.txt
     pip install -r requirements.txt
 
-    
+4.- archivo modificado desde github
